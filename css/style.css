@@ -25,6 +25,14 @@ header {
  border-radius: 15px;
 }
 
+#article-1 {
+ padding: 50px;
+ text-align: left;
+ font-size: 6px;
+ navigation: top;
+}
+
+
 #article-2 {
  padding: 50px;
  text-align: left;
