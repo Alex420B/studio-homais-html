@@ -16,6 +16,8 @@ header {
  color: #8a5858;
  padding: 20px;
  text-align: left;
+ text-decoration: bold;
+ font-size: 15px;
 }
 
 #hero-image {
@@ -27,9 +29,9 @@ header {
 
 #article-1 {
  padding: 50px;
- text-align: left;
+ text-align: center top;
  font-size: 6px;
- navigation: top;
+ 
 }
 
 
